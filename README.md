@@ -9,7 +9,7 @@
 </div>
 
 
-### Learning:
+### Languages:
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="100" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="100" />
