@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/seu-GuilhermeLimaSTN">
   <img height="150en" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" /> </br>
-  <img hright="140en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img height="140en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
