@@ -21,4 +21,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </div>
 
-![Snake animation](https://github.com/GuilhermeLimaSTN/GuilhermeLimaSTN/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/GuilhermeLimaSTN/GuilhermeLimaSTN/blob/output/github-contribution-grip-snake.svg)
