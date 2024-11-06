@@ -3,8 +3,8 @@
 ### Status:
 <div>
   <a href="https://github.com/seu-GuilhermeLimaSTN">
-  <img height="190en" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&count_private=false" /> 
-  <img height="190en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&layout=compact" />
+  <img height="180en" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&count_private=false" /> 
+  <img height="180en" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLimaSTN&theme=midnight-purple&show_icons=true&hide_border=false&border_color=A020F0&layout=compact" />
 </div>
 
 ### Languages:
