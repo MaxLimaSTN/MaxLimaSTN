@@ -1,4 +1,4 @@
-# Hii! I'm Guilherme/Max
+# Hii! I'm Max
 
 ### Status:
 <div>
